@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPDMA", "MPDMA.csproj", "{D0088E79-7B4C-4659-AAB6-ABAB7AE14710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0088E79-7B4C-4659-AAB6-ABAB7AE14710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0088E79-7B4C-4659-AAB6-ABAB7AE14710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0088E79-7B4C-4659-AAB6-ABAB7AE14710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0088E79-7B4C-4659-AAB6-ABAB7AE14710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C3BD86-4110-471A-BD3D-689BFA5B39BE}
+	EndGlobalSection
+EndGlobal
