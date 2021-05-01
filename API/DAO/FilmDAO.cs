@@ -10,7 +10,7 @@ namespace MPDMA.DAO
 {
     public class FilmDAO
     {
-        private readonly string connectionString = "Server=DESKTOP-DSLFBLB;Database=mpdma;Trusted_Connection=True;";
+        private readonly string connectionString = "Server=.\\sqlexpress;Database=mpdma;Trusted_Connection=True;";
 
         public List<Film> GetFilms()
         {
